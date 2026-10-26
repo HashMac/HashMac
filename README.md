@@ -1,30 +1,15 @@
 # Harshit
 
-I build applied AI and analytics systems for supply chain, finance, and industrial operations.
+I specialise in supply chain and finance analytics. I use data, AI and automation to turn operational questions into practical analysis and decision-support tools.
 
-My work sits at the intersection of domain expertise and software: turning real operational problems into practical analytics, automation, and decision-support tools.
+## Current work
 
-## Current focus
-
-- Supply-chain and finance analytics
-- Agent-assisted operational workflows
-- Python-based data products and automation
-- CAD, simulation, and digital-twin workflows for mechanical systems
-
-## Building in public
-
-I am developing a focused portfolio around three practical projects:
-
-1. An operations cost control tower built with synthetic data
-2. A mechanical parking digital twin and CAD-to-video pipeline
-3. Auditable multi-agent workflows for research, planning, and technical review
-
-I will publish each project here when it reaches a useful, demonstrable state.
+- Building in-house workflows for procurement, project management and CRM.
+- Applying AI and automation to operational analysis and routine tasks.
+- Connecting analytics with day-to-day operations to support data-backed decisions.
 
 ## How I work
 
-- Start with a real operational problem
-- Make assumptions and trade-offs explicit
-- Use synthetic or anonymized data for public demonstrations
-- Prefer reproducible results, tests, and working demos over decorative prototypes
-- Document what worked, what failed, and what I would improve next
+I start with a clear operational problem, make assumptions explicit, and document methods and trade-offs. For public demonstrations, I use synthetic or anonymized data and aim for reproducible results.
+
+I also explore CAD, simulation and digital-twin workflows for mechanical systems.
