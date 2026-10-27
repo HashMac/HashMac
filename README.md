@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img src="./assets/profile-banner-light.svg" alt="Harshit Pandey / HashMac. Original geometric planes, rails and an arc in cobalt and copper." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/harshit-pandey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/harshit-pandey-light.svg">
+  <img src="./assets/harshit-pandey-light.svg" alt="Harshit Pandey / HashMac. Original geometric planes, rails and an arc in cobalt and copper." width="1200">
 </picture>
 
 # Harshit Pandey

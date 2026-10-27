@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit Pandey / HashMac</title>
+  <desc id="desc">Harshit Pandey, with the GitHub handle HashMac. Original geometric planes, rails and an arc in restrained cobalt and copper.</desc>
+  <rect width="1200" height="300" rx="8" fill="#F7F5F0"/>
+  <text x="56" y="46" fill="#282B2B" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.3">HashMac</text>
+  <g fill="#282B2B" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-3">
+    <text x="50" y="137">Harshit</text>
+    <text x="50" y="233">Pandey</text>
+  </g>
+  <path d="M56 269H667" stroke="#C8CBC5" stroke-width="1"/>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M802 98L1011 44M878 263L1150 193" fill="none" stroke="#C8CBC5" stroke-width="1"/>
+    <path d="M852 107L1018 64L1138 136L972 179Z" fill="#EBECE8" stroke="#C8CBC5" stroke-width="1.1"/>
+    <path d="M804 180L970 137L1090 209L924 252Z" fill="#F7F5F0" stroke="#C8CBC5" stroke-width="1.1"/>
+    <path d="M852 107L972 179" fill="none" stroke="#4863A2" stroke-width="2.4"/>
+    <path d="M924 252L1090 209" fill="none" stroke="#4863A2" stroke-width="1.2"/>
+    <path d="M867 207C894 258 1009 264 1062 207C1110 155 1072 84 997 75" fill="none" stroke="#B27559" stroke-width="1.7"/>
+    <path d="M917 90L1037 162M879 161L999 233" fill="none" stroke="#C8CBC5" stroke-width=".8" stroke-opacity=".7"/>
+  </g>
+</svg>
