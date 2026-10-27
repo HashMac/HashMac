@@ -1,41 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Harshit / HashMac · Supply chain &amp; finance analytics</title>
-  <desc id="desc">Data, AI and automation for operational decisions. An original abstract network resolves into an orderly ledger. The artwork contains no numerical data.</desc>
-  <rect width="1200" height="300" rx="8" fill="#FAF9F5"/>
-  <path d="M52 66H1148 M52 274H1148" stroke="#DAD9D4" stroke-width="1"/>
-  <path d="M758 88V252" stroke="#DAD9D4" stroke-width="1"/>
-  <g fill="#3D3929">
-    <text x="54" y="42" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2">HARSHIT / HASHMAC</text>
-    <text x="50" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="-1.6">Supply chain &amp;</text>
-    <text x="50" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="54" letter-spacing="-1.6">finance analytics</text>
-    <text x="54" y="232" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="17">Data, AI &amp; automation for operational decisions.</text>
+  <title id="title">Harshit Pandey / HashMac</title>
+  <desc id="desc">Harshit Pandey, with the GitHub handle HashMac. Original geometric planes, rails and an arc in restrained cobalt and copper.</desc>
+  <rect width="1200" height="300" rx="8" fill="#F7F5F0"/>
+  <text x="56" y="46" fill="#282B2B" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.3">HashMac</text>
+  <g fill="#282B2B" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-3">
+    <text x="50" y="137">Harshit</text>
+    <text x="50" y="233">Pandey</text>
   </g>
-  <path d="M54 256H112" stroke="#C96442" stroke-width="3"/>
-  <g fill="none" stroke="#DAD9D4" stroke-width="1.4">
-    <path d="M802 105L855 143L815 201L879 220L915 166L889 96L855 143L915 166"/>
-    <path d="M815 201L915 166M802 105L889 96"/>
-    <path d="M802 84V241M841 84V241M880 84V241M919 84V241" stroke-opacity=".38"/>
-    <path d="M790 111H940M790 150H940M790 189H940M790 228H940" stroke-opacity=".38"/>
-  </g>
-  <g fill="#F5F4EF" stroke="#3D3929" stroke-width="1.3">
-    <circle cx="802" cy="105" r="4"/><circle cx="855" cy="143" r="5"/>
-    <circle cx="815" cy="201" r="4"/><circle cx="879" cy="220" r="4"/>
-    <circle cx="889" cy="96" r="4"/>
-  </g>
-  <g fill="none" stroke="#C96442" stroke-width="1.8" stroke-linecap="round">
-    <path d="M915 166C946 166 944 111 977 111H1004"/>
-    <path d="M915 166H1004"/>
-    <path d="M915 166C946 166 944 221 977 221H1004"/>
-    <circle cx="915" cy="166" r="7" fill="#FAF9F5"/>
-  </g>
-  <g fill="#F5F4EF" stroke="#DAD9D4" stroke-width="1">
-    <rect x="994" y="88" width="154" height="156" rx="3"/>
-    <path d="M994 132H1148M994 188H1148M1036 88V244M1092 88V244" fill="none"/>
-  </g>
-  <g fill="none" stroke="#3D3929" stroke-width="2.2" stroke-linecap="round" opacity=".7">
-    <path d="M1051 111H1077M1107 111H1131M1051 166H1077M1107 166H1131M1051 221H1077M1107 221H1131"/>
-  </g>
-  <g fill="#C96442">
-    <circle cx="1015" cy="111" r="3"/><circle cx="1015" cy="166" r="3"/><circle cx="1015" cy="221" r="3"/>
+  <path d="M56 269H667" stroke="#C8CBC5" stroke-width="1"/>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M802 98L1011 44M878 263L1150 193" fill="none" stroke="#C8CBC5" stroke-width="1"/>
+    <path d="M852 107L1018 64L1138 136L972 179Z" fill="#EBECE8" stroke="#C8CBC5" stroke-width="1.1"/>
+    <path d="M804 180L970 137L1090 209L924 252Z" fill="#F7F5F0" stroke="#C8CBC5" stroke-width="1.1"/>
+    <path d="M852 107L972 179" fill="none" stroke="#4863A2" stroke-width="2.4"/>
+    <path d="M924 252L1090 209" fill="none" stroke="#4863A2" stroke-width="1.2"/>
+    <path d="M867 207C894 258 1009 264 1062 207C1110 155 1072 84 997 75" fill="none" stroke="#B27559" stroke-width="1.7"/>
+    <path d="M917 90L1037 162M879 161L999 233" fill="none" stroke="#C8CBC5" stroke-width=".8" stroke-opacity=".7"/>
   </g>
 </svg>
